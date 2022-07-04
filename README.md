@@ -21,13 +21,13 @@ You can select one or more of the available engines ImageFX supports. Add one or
 	
     Needed libraries:
     
-    - QuickLibs from Exilon (https://github.com/exilon/QuickLibs)
+    - QuickLib from Exilon (https://github.com/exilon/QuickLib)
    
 - **Quick.ImageFX.GR32:** Uses Graphics32 engine to rotate, transform, resize, etc
 
 	Needed libraries:
     
-	- QuickLibs from Exilon (https://github.com/exilon/QuickLibs)
+	- QuickLib from Exilon (https://github.com/exilon/QuickLib)
 	- Graphics32 (https://github.com/graphics32/graphics32)
 	- CCR-Exif from Chris Rolliston (https://code.google.com/archive/p/ccr-exif)   
  
@@ -35,7 +35,7 @@ You can select one or more of the available engines ImageFX supports. Add one or
 	
     Needed libraries:  
 	
-	- QuickLibs from Exilon (https://github.com/exilon/QuickLibs)
+	- QuickLib from Exilon (https://github.com/exilon/QuickLib)
 	- Delphi-OpenCV from Laex (https://github.com/Laex/Delphi-OpenCV).  
 	- CCR-Exif from Chris Rolliston (https://code.google.com/archive/p/ccr-exif)
 	
@@ -43,7 +43,7 @@ You can select one or more of the available engines ImageFX supports. Add one or
 	
     Needed libraries:  
 	
-	- QuickLibs from Exilon (https://github.com/exilon/QuickLibs)
+	- QuickLib from Exilon (https://github.com/exilon/QuickLib)
 	- Vampyre-Imaging from Marek Mauder (https://github.com/galfar/imaginglib.git) 
 	- CCR-Exif from Chris Rolliston (https://code.google.com/archive/p/ccr-exif)
 
